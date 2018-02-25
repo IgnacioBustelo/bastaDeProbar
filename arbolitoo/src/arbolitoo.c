@@ -18,6 +18,8 @@ struct nodo{
 	struct nodo* hijoDer;
 };
 
+//fdkjshkufhsdkufhisdufhidserip
+
  typedef struct nodo nodo;
  typedef struct nodo* ptrnodo;
 

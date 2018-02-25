@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 void funcion (int* a, int* b){
-	printf("a + b = %i", a+b );
+	//printf("a + b = %i", a+b );
 		printf("a + b = %i", *a + *b );
 		}
 int main(void) {
